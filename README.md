@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rizwan Haider
+- 👀 A novice programmer with a passion for coding
+- 🌱 I’m currently learning the basics of languages like Python and experimenting with small projects.
+- 💞️ Excited about the endless possibilities that lie ahead!
+- 📫 How to reach me ...rizuu004@gmail.com
